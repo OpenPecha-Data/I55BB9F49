@@ -1,0 +1,10 @@
+id: 0ef782cd903e49d4bff33c6dca79923c
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  8e2ed49730c54807901d009ec99f21e8:
+    span:
+      start: 0
+      end: 574
+    imgnum: 1
+    reference: I3CN16320001.tif
